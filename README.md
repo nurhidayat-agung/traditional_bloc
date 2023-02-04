@@ -1,16 +1,12 @@
-# traditional_bloc
+# traditional_bloc 
 
-A new Flutter project.
 
-## Getting Started
+Simple App to implement BLoC without BLoC library
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://github.com/nurhidayat-agung/traditional_bloc/blob/master/ss/data_flow.png" width="250">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p float="left">
+<img src="https://github.com/nurhidayat-agung/traditional_bloc/blob/master/ss/1.PNG" width="250">
+<img src="https://github.com/nurhidayat-agung/traditional_bloc/blob/master/ss/2.PNG" width="250">
+</p>
